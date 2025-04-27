@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Nubank",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Nu.svg"
+    },
+    {
+        "name": "Banco do Nordeste",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/BancoDoNordeste.svg"
+    },
+    {
+        "name": "Banco do Brasil",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/refs/heads/main/BB.svg"
+    },
+    {
+        "name": "C6",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/C6.svg"
+    },
+    {
+        "name": "Caixa",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Caixa.svg"
+    },
+    {
+        "name": "iFood Benefícios",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/faaa2941582296ac5868b177a9e6331d57f61ce6/ifood.svg"
+    },
+    {
+        "name": "Inter",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Inter.svg"
+    },
+    {
+        "name": "Itaú",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Itau.svg"
+    },
+    {
+        "name": "Banco iti",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/iti.svg"
+    },
+    {
+        "name": "Mercado Pago",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Mercado%20Pago.svg"
+    },
+    {
+        "name": "next",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Next.svg"
+    },
+    {
+        "name": "PicPay",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Picpay.svg"
+    },
+    {
+        "name": "Banco Santander",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Santander.svg"
+    },
+    {
+        "name": "Dinheiro",
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Santander.svg"
+    }
+]
