@@ -1,58 +1,58 @@
 [
     {
         "name": "Nubank",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Nu.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/Nu.svg"
     },
     {
         "name": "Banco do Nordeste",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/BancoDoNordeste.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/BancoDoNordeste.svg"
     },
     {
         "name": "Banco do Brasil",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/refs/heads/main/BB.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/BB.svg"
     },
     {
         "name": "C6",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/C6.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/C6.svg"
     },
     {
         "name": "Caixa",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Caixa.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/Caixa.svg"
     },
     {
         "name": "iFood Benefícios",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/faaa2941582296ac5868b177a9e6331d57f61ce6/ifood.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/ifood.svg"
     },
     {
         "name": "Inter",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Inter.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/Inter.svg"
     },
     {
         "name": "Itaú",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/208754b417791d8ddafc71d7382eab68601d5a93/Itau.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/Itau.svg"
     },
     {
         "name": "Banco iti",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/iti.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/iti.svg"
     },
     {
         "name": "Mercado Pago",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Mercado%20Pago.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/Mercado%20Pago.svg"
     },
     {
         "name": "next",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Next.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/Next.svg"
     },
     {
         "name": "PicPay",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Picpay.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/Picpay.svg"
     },
     {
         "name": "Banco Santander",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/879c6504f4279277c8439154a66e62f0321a112c/Santander.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/Santander.svg"
     },
     {
         "name": "Dinheiro",
-        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/DespezzasAppSources/662de9f35679dc424ef2659926d53912c8762199/money.svg"
+        "icon": "https://raw.githubusercontent.com/ArthurDeAraujoNeves3/LinkinPayAppSources/a70889b4efe27327c056acf35bfd98fc56c7d3ad/money.svg"
     }
 ]
